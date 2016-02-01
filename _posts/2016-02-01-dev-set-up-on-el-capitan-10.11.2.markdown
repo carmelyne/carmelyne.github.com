@@ -25,4 +25,12 @@ With a fresh El Capitan install, I opened Terminal to git clone some Sketch (BTW
 
 1. Open Terminal
 2. Type “git clone”
-3. ...
+
+    <amp-img src="/assets/images/dev-1.png" alt="Terminal with Step 2" height="377" width="603"></amp-img>
+
+    *Terminal with Step 2*
+3. You should see: “xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.”
+
+    <amp-img src="/assets/images/dev-2.png" alt="Opt to install Command Line Developer Tools only" height="596" width="609"></amp-img>
+
+    *Opt to install Command Line Developer Tools only*
