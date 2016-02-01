@@ -38,7 +38,7 @@ With a fresh El Capitan install, I opened Terminal to git clone some Sketch (BTW
 5. Click on "Install" instead of "Get Xcode"
 6. Accept the agreement
 
-    <amp-img src="/assets/images/dev-3.png" alt="Accept agreement" height="619" width="1256"></amp-img>
+    <amp-img src="/assets/images/Dev-3.png" alt="Accept agreement" height="619" width="1256"></amp-img>
 
     *Accept agreement*
 7. The download begins.
