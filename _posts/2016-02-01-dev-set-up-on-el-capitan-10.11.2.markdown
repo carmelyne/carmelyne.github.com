@@ -58,3 +58,59 @@ With a fresh El Capitan install, I opened Terminal to git clone some Sketch (BTW
 
       *Terminal Profiles Tab*
 11. Create a New Profile Theme
+
+      <amp-img src="/assets/images/dev-7.png" alt="Create a new profile" height="626" width="689"></amp-img>
+
+      *New Theme*
+12. Name it whatever you want. I chose Idle Fingers because I used the colors from the Idle Fingers Theme.
+
+      <amp-img src="/assets/images/dev-8.png" alt="Create a new profile" height="611" width="681"></amp-img>
+
+      *New Theme*
+13. Set Colors
+
+  1. Background / Colors and Effects: #323232
+  2. Text / Text: #EBDFBB
+  3. Text / Bold Text: #4278B2
+  4. Text / Selection: #B8332D
+
+
+      <amp-img src="/assets/images/dev-9.png" alt="Set colors" height="615" width="685"></amp-img>
+
+      *Set colors*
+
+14. Set Idle Fingers Profile to default
+
+      <amp-img src="/assets/images/dev-10.png" alt="new default theme" height="628" width="700"></amp-img>
+
+      *New default theme*
+
+15. Go back to Terminal
+
+16. We need to show hidden files; type “defaults write com.apple.Finder AppleShowAllFiles YES”
+
+      <amp-img src="/assets/images/dev-24.png" alt="Show hidden files" height="588" width="845"></amp-img>
+
+      *Show hidden files*
+
+17. Relaunch Finder
+
+      <amp-img src="/assets/images/dev-16.png" alt="Relaunch Finder" height="331" width="356"></amp-img>
+
+      *Relaunch Finder*
+
+18. Go back to Terminal, Type ls -lah to check if .bash_profile exists
+
+      <amp-img src="/assets/images/dev-11.png" alt="Back to Terminal" height="466" width="684"></amp-img>
+
+      *ls -lah*
+
+      <amp-img src="/assets/images/dev-12.png" alt="check if .bash_profile exists" height="464" width="686"></amp-img>
+
+      *check if .bash_profile exists*
+
+19. Type “touch .bash_profile”
+
+      <amp-img src="/assets/images/dev-13.png" alt="touch .bash_profile" height="467" width="683"></amp-img>
+
+      *touch .bash_profile*
