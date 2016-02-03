@@ -135,9 +135,14 @@ With a fresh El Capitan install, I opened Terminal to git clone some Sketch (BTW
 
 23. Add the script to change colors, alias and some more scripts to make life easier.
 
-      <amp-iframe width=300 height=300
-        sandbox="allow-scripts allow-same-origin"
-        layout="responsive"
-        frameborder="0"
-        src="https://gist.github.com/carmelyne/28d58433bbb0ff9b2676.js">
-      </amp-iframe>
+      [Github gist for the script](https://gist.github.com/carmelyne/28d58433bbb0ff9b2676)
+
+      <amp-img src="/assets/images/dev-20.png" alt=".bash_profile" height="458" width="636"></amp-img>
+
+      *Bash Script*
+24. Save it.
+25. Go back to Terminal
+26. Type “source .bash_profile”
+27. Test one of the alias by typing one of the aliases like small letter L “l” for “ls -lah”
+28. At this point, The Command Line Tools was successfully installed. (Forgot the screenshot)
+29. Go to Terminal and type "git"
