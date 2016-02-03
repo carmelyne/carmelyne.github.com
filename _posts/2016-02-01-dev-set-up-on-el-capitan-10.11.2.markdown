@@ -114,3 +114,30 @@ With a fresh El Capitan install, I opened Terminal to git clone some Sketch (BTW
       <amp-img src="/assets/images/dev-13.png" alt="touch .bash_profile" height="467" width="683"></amp-img>
 
       *touch .bash_profile*
+
+20. Type “open .”
+
+      <amp-img src="/assets/images/dev-14.png" alt="touch .bash_profile" height="461" width="691"></amp-img>
+
+      *open .*
+
+21. Find the .bash_profile and right click
+
+      <amp-img src="/assets/images/dev-18.png" alt=".bash_profile" height="658" width="822"></amp-img>
+
+      *.bash_profile*
+
+22. Open with Textedit. (Alternatively you can edit it in Terminal with nano or vim but I’m a bad typer that I’d rather copy and paste selectively from my previous bash_profile file; or you can git clone one from github but I wanted to start fresh.)
+
+      <amp-img src="/assets/images/dev-19.png" alt=".bash_profile" height="463" width="651"></amp-img>
+
+      *open .bash_profile with TextEdit*
+
+23. Add the script to change colors, alias and some more scripts to make life easier.
+
+      <amp-iframe width=300 height=300
+        sandbox="allow-scripts allow-same-origin"
+        layout="responsive"
+        frameborder="0"
+        src="https://gist.github.com/carmelyne/28d58433bbb0ff9b2676.js">
+      </amp-iframe>
