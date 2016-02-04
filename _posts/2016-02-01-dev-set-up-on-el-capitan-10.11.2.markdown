@@ -143,6 +143,19 @@ With a fresh El Capitan install, I opened Terminal to git clone some Sketch (BTW
 24. Save it.
 25. Go back to Terminal
 26. Type “source .bash_profile”
+
+      <amp-img src="/assets/images/dev-21.png" alt=".bash_profile" height="472" width="693"></amp-img>
+
+      *source .bash_profile*
 27. Test one of the alias by typing one of the aliases like small letter L “l” for “ls -lah”
+
+      <amp-img src="/assets/images/dev-22.png" alt=".bash_profile" height="458" width="680"></amp-img>
+
+      *type l*
 28. At this point, The Command Line Tools was successfully installed. (Forgot the screenshot)
 29. Go to Terminal and type "git"
+
+      <amp-img src="/assets/images/dev-22.png" alt=".bash_profile" height="458" width="680"></amp-img>
+
+      *Git installed via the Command Line Developer Tools Installation*
+30. Relax. Part 1 is done. Yay!
