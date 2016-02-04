@@ -68,12 +68,10 @@ With a fresh El Capitan install, I opened Terminal to git clone some Sketch (BTW
 
       *New Theme*
 13. Set Colors
-
-  1. Background / Colors and Effects: #323232
-  2. Text / Text: #EBDFBB
-  3. Text / Bold Text: #4278B2
-  4. Text / Selection: #B8332D
-
+  * Background / Colors and Effects: #323232
+  * Text / Text: #EBDFBB
+  * Text / Bold Text: #4278B2
+  * Text / Selection: #B8332D
 
       <amp-img src="/assets/images/dev-9.png" alt="Set colors" height="615" width="685"></amp-img>
 
