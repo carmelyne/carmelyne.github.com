@@ -4,7 +4,8 @@ title:  "Dev Set up on El Capitan 10.11.2 - Part 1"
 date:   2016-02-01 10:12:20
 excerpt: Setting up a dev environment on a freshly installed El Capitan 10.11.2 on an iMac (2011 Edition) starting with MacOSX command line tools, customizing a theme for Terminal, and adding a .bash_profile
 image:
-  feature: test.jpg
+  feature: test.png
+  description:
   credit:
   creditlink:
 technologies:
@@ -26,30 +27,60 @@ With a fresh El Capitan install, I opened Terminal to git clone some Sketch (BTW
 1. Open Terminal
 2. Type “git clone”
 
-    <amp-img src="/assets/images/dev-1.png" alt="Terminal with Step 2" height="377" width="603"></amp-img>
+    <amp-img
+      src="/assets/images/dev-1.png"
+      alt="Terminal with Step 2"
+      width="603"
+      height="377"
+      layout="responsive">
+    </amp-img>
 
     *Terminal - Step 2*
 3. A window should pop up.
 4. You should see: “xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.”
 
-    <amp-img src="/assets/images/dev-2.png" alt="Opt to install Command Line Developer Tools only" height="596" width="609"></amp-img>
+    <amp-img
+      src="/assets/images/dev-2.png"
+      alt="Opt to install Command Line Developer Tools only"
+      width="609"
+      height="596"
+      layout="responsive">
+    </amp-img>
 
     *Opt to install Command Line Developer Tools only*
 5. Click on "Install" instead of "Get Xcode"
 6. Accept the agreement
 
-    <amp-img src="/assets/images/Dev-3.png" alt="Accept agreement" height="619" width="1256"></amp-img>
+    <amp-img
+      src="/assets/images/dev-3.png"
+      alt="Accept agreement"
+      width="1256"
+      height="619"
+      layout="responsive">
+    </amp-img>
 
     *Accept agreement*
 7. The download begins.
 
-    <amp-img src="/assets/images/dev-4.png" alt="Downloading" height="197" width="553"></amp-img>
+    <amp-img
+      src="/assets/images/dev-4.png"
+      alt="Downloading"
+      width="553"
+      height="197"
+      layout="responsive">
+    </amp-img>
 
     *Downloading command line developer tools*
 8. While that downloads, lets customize Terminal and set up a .bash_profile file in our home directory
 9. Open Terminal's Preferences
 
-    <amp-img src="/assets/images/dev-5.png" alt="Terminal Preferences" height="249" width="396"></amp-img>
+    <amp-img
+      src="/assets/images/dev-5.png"
+      alt="Preferences"
+      width="396"
+      height="249"
+      layout="responsive">
+    </amp-img>
 
     *Click on Preferences*
 10. Go to the Profiles Tab
