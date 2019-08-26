@@ -1,31 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Aug 27, 2019
+##### (Set up, Refreshers and Project: HTML & CSS )
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed Pre-course Lessons:
+- How Does the Web Work?
+- Command Line Basics
+- Git Basics
+- The Front End
+- Google Page Project (Completed: Semantic HTMl Mark up)
+- Google Page Project (TBC: CSS Grid and Flex)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** I went through most of what I already know as fast as I could, but, overall, I feel like the refresher was worth it after being able to answer the knowledge checks. I was able to complete up to the HTML markup of the Google Homepage project. My personal challenge was to be more semantic so I can use CSS Grid and Flexbox instead of doing the basic. That was the point of a 100 days challenge anyway --to challenge myself. I did pomodoro for the first 2 hours then slipped back to not taking breaks. I think that's why I feel spent after a total of 5 hours going through the Lessons and Projects. Next mini goal: do better with Pomodoro and breaks.
 
