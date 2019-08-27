@@ -3,9 +3,9 @@
 ### Day 1: Aug 27, 2019
 ##### (Project Demo: Google Home Page )
 
-**Today's Progress**: Completed Pre-course Google Home page
+**Today's Progress**: Completed Pre-course Project: Google Home page
 
-**Thoughts:** Took almost an hour and a half to finish the CSS using CSS Grid and flexbox which I wasn't very familiar with. Now on to the part I hate. Javascript. I feel like JS and I need a fresh start.
+**Thoughts:** Took almost an hour and a half to finish the CSS using CSS Grid and flexbox which I wasn't very familiar with. Now on to the part I hate. Javascript. I feel like JS and I need a fresh start. Pomodoro breaks for the first 2 hours were missed. Again.
 
 ### Day 0: Aug 26, 2019
 ##### (Set up, Refreshers and Project: HTML & CSS )
