@@ -5,7 +5,7 @@
 
 **Today's Progress**: Completed Pre-course Project: Google Home page
 
-**Thoughts:** Took almost an hour and a half to finish the CSS using CSS Grid and flexbox which I wasn't very familiar with. Now on to the part I hate. Javascript. I feel like JS and I need a fresh start. Pomodoro breaks for the first 2 hours were missed. Again.
+**Thoughts:** Took almost an hour and a half to finish the CSS using CSS Grid and flexbox which I wasn't very familiar with. Final files: 3kb HTML file and 4kb CSS but without the dropdown menu for app nav and without the media query to fix for screens lower than 520px. css Now on to the part I hate. Javascript. I feel like JS and I need a fresh start. Pomodoro breaks for the first 2 hours were missed. Again.
 
 ### Day 0: Aug 26, 2019
 ##### (Set up, Refreshers and Project: HTML & CSS )
