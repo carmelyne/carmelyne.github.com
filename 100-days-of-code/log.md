@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 2: Aug 28, 2019
+##### (Project Demo: Google Home Page )
+
+**Today's Progress**: An hour of JS at FreeCodeCamp
+
+**Thoughts:** A bit distracted today. I couldn't focus, but stuck to finishing an hour of JS. I feel that the hardest part about coding is trying to get into that focused zone. As I was doing the JS excercises, I found the phrasing quite confusing and the exercises were jumping 5 steps back then 5 steps forward without proper references unless you click on "Get a hint".
+
 ### Day 1: Aug 27, 2019
 ##### (Project Demo: Google Home Page )
 
